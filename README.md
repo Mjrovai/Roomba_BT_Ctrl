@@ -16,7 +16,8 @@ https://mjrobot.org/2016/07/04/controlando-o-robo-aspirador-roomba-com-arduino-e
 <h2>BT Remote control</h2>
 BT Remote control was deveveloped using AppInventor from MIT. Here the link for downloading or changing the project:
 
-- ai2.appinventor.mit.edu/?galleryId=6472968488615936
+http://ai2.appinventor.mit.edu/?galleryId=6472968488615936
+
 
 Alternatevelly, the files generated using AppInventor can be found here on their specific folder /App_Inventor:
 
